@@ -264,6 +264,16 @@ article .news_posted_at {
     margin-right: 2px;
 }
 
+article .news_posted_at::after {
+    content: '';
+    position: absolute;
+    display: block;
+    border: 15px solid;
+    border-color: transparent transparent transparent #2B4C99;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+
 article .news_comments {
     font-size: 12px;
     background-color: #39aae1;
