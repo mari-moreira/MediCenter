@@ -177,3 +177,66 @@ nav a:hover {
     margin-top: 10px;
     background-color: #36a9e1;
 }
+
+.widget_depart {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.widget_depart_internal {
+    background-color: #0079C7;
+    width: 100px;
+    height: 100px;
+    margin: 0px 10px 10px 0;
+    transition: all 0.5s ease-in-out;
+}
+
+.widget_depart_internal:hover {
+    background-color: #2B4C99;
+    cursor: pointer;
+}
+
+.appoiment_resume {
+    margin-bottom: 20px;
+}
+
+.appoiment_icones {
+    display: flex;
+    align-items: center;
+    border-top: 1px solid #ccc;
+    padding: 5px;
+}
+
+
+
+.appoiment_icone {
+    background-color: #b0adad;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 5px;
+    font-size: 18px;
+    transition: all 0.5s ease-out;
+}
+
+.appoiment_icone:hover {
+    background-color: #0079C7;
+    cursor: pointer;
+
+}
+
+.appoimento_text {
+    margin-left: 20px;
+}
+
+.appoimento_text a {
+    color: #0079C7;
+    text-decoration: none;
+    transition: all 0.5s ease;
+    padding-bottom: 5px;
+}
+
+.appoimento_text a:hover {
+
+    border-bottom: 2px dotted #0079C7;
+
+}
