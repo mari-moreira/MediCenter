@@ -146,3 +146,34 @@ nav a:hover {
     padding-bottom: 5px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.31)
 }
+
+#geral {
+    display: flex;
+    justify-content: center;
+}
+
+#geral section {
+    flex: 2;
+}
+
+#geral aside {
+    flex: 1;
+}
+
+.widget_title {
+    margin: 30px 0 20px 0;
+}
+
+.widget_title_text {
+    color: #000;
+    font-size: 21px;
+    font-weight: bold;
+
+}
+
+.widget_title_bar {
+    width: 50px;
+    height: 3px;
+    margin-top: 10px;
+    background-color: #36a9e1;
+}
