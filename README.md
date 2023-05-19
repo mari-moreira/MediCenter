@@ -5,16 +5,15 @@
 </br>
 # Medicenter 
 
-
-
 </br>
 
 
 ## Sobre o Projeto
 
-***
+</br>
 
 Projeto desenvolvido no Curso B7Web com o intuito de treinar   a tecnologia Flexbox do CSS3.
+
 </br>
 
 
@@ -22,10 +21,12 @@ Projeto desenvolvido no Curso B7Web com o intuito de treinar   a tecnologia Flex
 
 </br>
 
-***
+
 </br>
 
 ## Tecnologias Utilizadas
+
+</br>
 
 - [x] HTML
 - [x] CSS
@@ -33,18 +34,24 @@ Projeto desenvolvido no Curso B7Web com o intuito de treinar   a tecnologia Flex
 
 </br>
 
-***
 
-## Demostração do Projeto em 
+
+## Demostração do Projeto 
+
+</br>
 
 ![DemoDesktop](./src/assets/images/Desktop_Gif.gif)
 
 
 </br>
 
+</br>
+
 ![DemoMobile](./src/assets/images/Mobile_Gif.gif)
 
 ## Como rodar esse Projeto?
+
+</br>
 
 Na pasta desejada copie o código abaixo :
 
