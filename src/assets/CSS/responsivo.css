@@ -1,0 +1,121 @@
+@media (max-width:950px) {
+
+    /*Menu*/
+
+    .menu_mobile {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    header {
+        height: auto;
+        margin: 0 20px 0 30px;
+        padding: 10px 0;
+    }
+
+    header .container {
+        flex-direction: row;
+    }
+
+    nav ul {
+        flex-direction: column;
+        display: none;
+        position: absolute;
+        left: 0;
+        background-color: #fff;
+        width: 100%;
+    }
+
+    /*Banner*/
+
+
+    .container {
+        padding: 0 30px;
+        flex-direction: column;
+
+    }
+
+    #geral {
+        margin-top: 360px;
+    }
+
+    #banner {
+        height: 70vh;
+
+    }
+
+    .banner_headline {
+        padding-left: 30px;
+    }
+
+    .banner_headline h1 {
+        font-size: 50px;
+    }
+
+    .banner_headline h2 {
+        font-size: 19px;
+    }
+
+    .banner_options {
+        height: auto;
+        flex-direction: column;
+        padding: 30px 0;
+    }
+
+    /*Rodapé*/
+
+    .footer_menu {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .footer_area {
+        flex-direction: column;
+    }
+
+}
+
+@media (min-width:375px) and (max-width:500px) {
+
+
+    #geral {
+        margin-top: 400px;
+    }
+
+}
+
+@media (max-width:300px) {
+    .container {
+        padding-left: 20px;
+        overflow-x: hidden;
+    }
+
+    .logo img {
+        width: 100%;
+
+    }
+
+    #geral {
+        padding-top: 10px;
+        margin-top: 0;
+    }
+
+    .banner_headline h1 {
+        font-size: 30px;
+    }
+
+
+
+    article .news_thumbnail img {
+        width: 75%;
+
+    }
+
+    article .news_resume {
+        width: 250px;
+        word-wrap: break-word;
+        text-align: left;
+    }
+}
