@@ -17,7 +17,7 @@ Projeto desenvolvido no Curso B7Web com o intuito de treinar   a tecnologia Flex
 </br>
 
 
-![Projeto](./src/assets/images/Apresentacao-do-Projeto.png)
+![Projeto](./src/assets/images/apresentacao.gif)
 
 </br>
 
@@ -34,31 +34,14 @@ Projeto desenvolvido no Curso B7Web com o intuito de treinar   a tecnologia Flex
 
 </br>
 
-
-
-## Demostração do Projeto 
-
-</br>
-
-![DemoDesktop](./src/assets/images/Desktop_Gif.gif)
-
-
-</br>
-
-</br>
-
-![DemoMobile](./src/assets/images/Mobile_Gif.gif)
-
 ## Como rodar esse Projeto?
 
 </br>
 
 Na pasta desejada copie o código abaixo :
 
-
-
 ~~~
-git@github.com:mari-moreira/MediCenter.git
+git clone git@github.com:mari-moreira/MediCenter.git
 
 ~~~
 
